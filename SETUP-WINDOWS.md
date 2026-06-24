@@ -4,7 +4,9 @@ Several questions in this assessment expect a **Unix-style terminal** (bash or z
 
 If you have never heard of WSL, that is completely fine. WSL is a Microsoft-supported feature that lets you run Ubuntu Linux inside Windows, in its own terminal window. Most people install it in about 15 to 30 minutes.
 
-> **Windows version:** We recommend **Windows 11** to get the latest updates and the smoothest WSL experience. If you prefer not to use Windows, you can switch to a free Linux OS such as Ubuntu.
+![Setup Windows](assets/setup-windows.png)
+
+> We recommend **Windows 11** to get the latest updates and the smoothest WSL experience. If you prefer not to use Windows, you can switch to a free Linux OS such as Ubuntu.
 
 **Prefer to install Linux directly instead of using WSL?** That works too, and is fully supported for this course. Ubuntu is the most beginner-friendly distribution and is the same Linux that WSL would install for you anyway. You can install Ubuntu alongside Windows (dual-boot), on a spare laptop, or try it from a USB stick first without committing. See the [Linux install path for Windows users](#linux-install-path-for-windows-users) section at the bottom of this file. Once Ubuntu is running, you can skip the WSL steps entirely; the rest of this section does not apply to you.
 
