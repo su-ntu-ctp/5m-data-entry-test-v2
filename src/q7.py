@@ -18,11 +18,11 @@ Snippet 1
 
 (a) What does this print? Write the exact value.
 
-    Answer:
+    Answer: 17
 
 (b) In one sentence, describe in plain English what this loop computes.
 
-    Answer:
+    Answer: Adds all numbers ignoring those numbers that are less than 4. (Hence 9+8)
 
 ------------------------------------------------------------------
 Snippet 2
@@ -37,6 +37,7 @@ Snippet 2
 (c) Write the two lines this program prints, in order.
 
     Answer:
-    Line 1:
-    Line 2:
+    Hello, world!
+    Hello, Ada!
+
 """
